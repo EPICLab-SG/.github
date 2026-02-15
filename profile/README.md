@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+This is the official code repository for the Epistemic Intelligence and Computation research lab. We are based at the College of Computing and Data Science at Nanyang Technological University, Singapore, led by assistant professor Siu Lun Chau.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can find our repositories of our proof-of-concept projects here.
